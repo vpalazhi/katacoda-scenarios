@@ -31,6 +31,9 @@
         "text": "step6.md"
       }
     ],
+  "assets": {
+            "master": [ {"file": "*", "target": "/root", "chmod": "+x" } ]           
+  },
     "intro": {
       "text": "intro.md"
     },
